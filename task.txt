@@ -1,0 +1,18 @@
+The Story: Helping Mr. Ben's Village Store
+
+In a small, cozy village, there’s a friendly shopkeeper named Mr. Ben. He owns a quaint store that provides essentials to the entire village. Lately, he’s been struggling to manage his inventory by hand, often forgetting what he has in stock, mispricing items, or even running out of popular products! The villagers love Mr. Ben, but they’ve started to notice that sometimes their favorite items are unavailable, and they don’t want him to lose business.
+
+Your Mission: As a young and budding developer, Mr. Ben has asked for your help! He needs a digital inventory system to keep track of all the items in his store. With your coding skills, you’re going to help him automate this task and bring his store into the modern age!
+
+The Tasks:
+
+DONE    1. Listing the Store’s Items: Mr. Ben can never remember all the items in his store. Build a function that lists every product, including its name, price, category, and stock level, so he can easily check his inventory.
+
+
+2. Finding Missing Items: Sometimes villagers ask Mr. Ben for specific items, but he can’t always remember if they’re available. Create a search function that will allow Mr. Ben to find any item by name, so he can quickly answer customer queries.
+
+
+3. Restocking Popular Products: Some of the most beloved items in the village, like Apple Pie and Fresh Milk, sell out fast! Mr. Ben needs a function to update the stock levels of his products so he can restock when necessary.
+
+
+4. Adding New Items to the Shelves: Mr. Ben frequently introduces new items to the store, like special seasonal treats or freshly baked goods. Build a function that will add new items to the inventory, with details about price, quantity, and category.

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Mr Ben's Store</title>
+  </head>
+  <body>
+    <h1 class="title">Mr. Ben's Inventory</h1>
+
+    <!-- SEARCH -->
+    <div>
+      <h2>Search Products:</h2>
+      <input type="text" id="search-input" placeholder="Enter product name" />
+      <button id="search-button">Search</button>
+      <div id="search-results"></div>
+    </div>
+
+    <!-- RESTOCK -->
+    <div>
+      <br />
+      <h2>Restock Products:</h2>
+      <input
+        type="text"
+        id="restock-input-name"
+        placeholder="Enter product name"
+      />
+      <input type="number" id="restock-input-stock" placeholder="Enter stock" />
+      <button id="restock-button">Restock</button>
+      <div id="restock-results"></div>
+    </div>
+    <br />
+
+    <!-- ADD NEW -->
+    <div>
+      <h2>Add New Products:</h2>
+
+      <input
+        type="text"
+        id="input-add--name"
+        placeholder="Enter product name"
+      />
+      <input type="number" id="input-add--price" placeholder="Enter price" />
+      <input
+        type="text"
+        id="input-add--category"
+        placeholder="Enter category"
+      />
+      <input type="number" id="input-add--stock" placeholder="Enter stock" />
+      <button id="add--button">Add product</button>
+      <div id="add--result"></div>
+    </div>
+    <br />
+
+    <!-- LIST -->
+    <div id="products-list">
+      <h2>Mr.Ben's All Products:</h2>
+    </div>
+
+    <script></script>
+
+    <script src="script.js"></script>
+    <script src="script-practice.js"></script>
+  </body>
+</html>
